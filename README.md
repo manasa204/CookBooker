@@ -22,5 +22,3 @@ CookBookeer is a simple and user-friendly recipe application that helps users di
 - **Database:** MongoDB (if applicable)  
 
 ---
-
-## 📂 Project Structure
