@@ -15,4 +15,12 @@ CookBookeer is a simple and user-friendly recipe application that helps users di
 - ⚡ Fast and easy to use  
 
 ---
+## 🛠️ Tech Stack
 
+- **Frontend:** React / HTML / CSS / JavaScript  
+- **Backend:** Node.js / Express (if applicable)  
+- **Database:** MongoDB (if applicable)  
+
+---
+
+## 📂 Project Structure
